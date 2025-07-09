@@ -116276,7 +116276,7 @@ s($,"btZ","bat",()=>new A.asH())
 r($,"bos","fy",()=>new A.abU())
 s($,"bpe","aVH",()=>B.dZ.Np(B.lh,t.X))
 s($,"brN","b8Z",()=>A.beN(B.LL))
-s($,"boo","bj",()=>{var q=null,p=A.bcs(A.aW7("http://202.4.119.189:8004",A.a5(["Content-Type","application/json"],t.N,t.z),q,B.eO)),o=p.a0C$
+s($,"boo","bj",()=>{var q=null,p=A.bcs(A.aW7("https://api.be.com.bd",A.a5(["Content-Type","application/json"],t.N,t.z),q,B.eO)),o=p.a0C$
 o.I(o,new A.VX(new A.aaq(),new A.aar(),q,q,q))
 return p})
 s($,"bop","b6R",()=>{var q=null
